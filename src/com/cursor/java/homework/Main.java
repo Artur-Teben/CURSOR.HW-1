@@ -1,4 +1,4 @@
-package CURSOR;
+package com.cursor.java.homework;
 
 public class Main{
 
@@ -36,17 +36,5 @@ public class Main{
         if (booleanValue1 != booleanValue2) {
             System.out.println("booleanValue1 and booleanValue2 have different values!");
         }
-
     }
-
 }
-
-
-
-
-
-
-
-
-
-
