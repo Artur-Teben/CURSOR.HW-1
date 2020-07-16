@@ -1,5 +1,7 @@
 package com.cursor.java.homework;
-
+//Author: Artur Teben
+//Date: June 20 2020
+//E-mail: teben.artur99@gmail.com
 public class Main{
 
     public static void main(String []args){
